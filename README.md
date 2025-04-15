@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello there, I'm Thomas!
 
-<!--
-**quietvw/quietvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate [Your Profession or Role] with a love for [What You Love – e.g., coding, design, AI, etc.].  
+Currently working on:  
+🔹 [Project or Area You're Focused On]  
+🔹 [Another cool thing you're doing]
+
+## 🛠️ Technologies & Tools
+
+- Programming: `Python`, `PHP`, `GoLang`
+- Tools: `Git`, `Docker`, `VSCode`
+
+## 📈 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=quietvw&show_icons=true&theme=github_dark)
+
+## 🌐 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/thomas-wilbur/)
+
+
