@@ -2,13 +2,6 @@
 
 Welcome to my GitHub profile!
 
-## 🚀 About Me
-
-I'm a passionate [Your Profession or Role] with a love for [What You Love – e.g., coding, design, AI, etc.].  
-Currently working on:  
-🔹 [Project or Area You're Focused On]  
-🔹 [Another cool thing you're doing]
-
 ## 🛠️ Technologies & Tools
 
 - Programming: `Python`, `PHP`, `GoLang`
